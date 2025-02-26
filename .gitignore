@@ -1,0 +1,6 @@
+# Ignore system files and other unnecessary files
+*.log
+*.ini
+*.pub
+*.settings
+.android/
